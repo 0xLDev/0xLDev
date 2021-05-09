@@ -20,3 +20,7 @@
 <a href="https://jestjs.io" target="_blank"><img align="left" alt="Jest" width="26px" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" /></a>
 <a href="https://www.cypress.io" target="_blank"><img align="left" alt="Cypress" width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" /></a>
 <a href="https://webpack.js.org" target="_blank"><img align="left" alt="Webpack" width="26px" src="https://camo.githubusercontent.com/b0573f87b0786eda63c76f2a9a1358e7a653783c25c03c6c908a00b70c713d78/68747470733a2f2f7765627061636b2e6a732e6f72672f6173736574732f69636f6e2d7371756172652d6269672e737667" /></a>
+<br>
+
+### Connect with me:
+<a href="https://dev.to/0xLDev" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="0xLDev" height="30" width="40" /></a>
